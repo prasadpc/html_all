@@ -1,0 +1,47 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    /* top: 100px; */
+    color:brown
+    
+}
+#name{
+    /* text-align: right; */
+    font-size: 70px;
+    color: #61fc70;
+    margin: 0px 0px 0px 200px;
+    
+    
+    /* display: inline-block; */
+}
+.navbar{
+   
+    text-align: right;
+    font-size: 25px;
+    text-decoration: none;
+    color: chartreuse;
+    background-color: bisque;
+} 
+.navbar #h{
+    text-decoration: none;
+    padding: 10px;
+   
+}
+.navbar #p{
+    text-decoration: none;
+    padding: 10px;
+}
+
+.navbar #c {
+    text-decoration: none;
+    padding: 10px;
+}
+/* #bb{
+    padding: 0px;
+    margin: 0px;
+    
+} */
+ 
+.pp{
+    display: inline-block;
+}
